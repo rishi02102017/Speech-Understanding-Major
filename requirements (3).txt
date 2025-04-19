@@ -1,0 +1,15 @@
+torch
+torchaudio
+transformers
+openai-whisper
+ffmpeg-python
+gTTS
+TTS
+jiwer
+pesq
+librosa
+scipy
+matplotlib
+numpy
+pandas
+soundfile
