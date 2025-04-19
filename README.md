@@ -93,6 +93,7 @@ This major course project is designed around real-world challenges in multilingu
 
 ├── M24CSA013_major.pdf        # Final technical report in CVPR format
 ├── requirements.txt       
+├── README.md
 
 ```
 
