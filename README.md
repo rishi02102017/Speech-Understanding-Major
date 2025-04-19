@@ -1,5 +1,10 @@
 <h1 align="center"> Speech Understanding Major - IIT Jodhpur</h1>
 
+<p align="center">
+  <img src="SU.jpg" alt="Banner image" width="500"/>
+</p>
+
+
 This repository contains the complete submission for the **Speech Understanding Major** course, undertaken as part of the M.Tech program in **Artificial Intelligence** at **Indian Institute of Technology Jodhpur**.
 
 Author: **Jyotishman Das**  
@@ -87,6 +92,7 @@ This major course project is designed around real-world challenges in multilingu
 │   └── Block_diagram   
 
 ├── M24CSA013_major.pdf        # Final technical report in CVPR format
+├── requirements.txt       
 
 ```
 
